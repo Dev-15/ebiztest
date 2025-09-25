@@ -27,8 +27,8 @@ This project is a small-scale distributed web application built with **Laravel 1
 
 ```bash
 # Clone project
-git clone https://github.com/your-repo/laravel11-report-video-job.git
-cd laravel11-report-video-job
+git clone https://github.com/Dev-15/ebiztest.git
+cd ebiztest
 
 # Install PHP dependencies
 composer install
